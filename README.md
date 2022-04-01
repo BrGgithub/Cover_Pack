@@ -10,6 +10,10 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
+## Cover Pack Credits:
+* BrG - Building
+* EmirPlays - Helped Me for The Source
+* BambiTGA - Covers
 ## Credits:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
